@@ -1,0 +1,50 @@
+body{
+    border-radius: 70px;
+    height: 989px;
+}
+h1{
+    /* font-size: 2rem; */
+    font-size: 4vw;
+    border: 10px;
+    border-radius: 0.2em;
+    border-style: groove;
+    text-decoration: none;
+    background-color: grey;
+    padding-bottom: 5px;
+    text-align: center;
+    text-shadow: 2px 2px 8px red;
+    box-shadow: 10px 15px 5px 2px rgb(165, 61, 47) inset;
+}
+p{
+    font-size: 25px;
+    font-family: 'Akaya Telivigala', cursive;
+    color:darkslategrey;
+    text-indent: 50px;
+    word-spacing: 3px;
+}
+.dog{
+    border-radius: 20px;
+}
+.dog:hover{
+    border-radius: 30%;
+    cursor: pointer;
+}
+h2{
+    font-size: 4vw;
+    border: 10px;
+    border-radius: 0.2em;
+    text-decoration: underline;
+    background-color: grey;
+    padding-bottom: 5px;
+    text-align: center;
+}
+
+a{
+    color:darkslategrey;
+    font-family: 'Akaya Telivigala';;
+    font-size: 25px;
+
+}
+a:hover{
+    cursor: pointer;
+}
