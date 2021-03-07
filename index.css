@@ -2,6 +2,10 @@ body{
     border-radius: 70px;
     height: 989px;
 }
+.google{
+    padding-left: 90vw;
+    cursor: pointer;
+}
 h1{
     /* font-size: 2rem; */
     font-size: 4vw;
@@ -10,6 +14,7 @@ h1{
     border-style: groove;
     text-decoration: none;
     background-color: grey;
+    margin: 1px;
     padding-bottom: 5px;
     text-align: center;
     text-shadow: 2px 2px 8px red;
